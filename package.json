@@ -1,0 +1,16 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Curso para conocer la evolucion que a tenido javaScript en el tiempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jovascript",
+    "ecmascript",
+    "versionesJ"
+  ],
+  "author": "David Rincon <digitalonly.agency@gmail.com>",
+  "license": "MIT"
+}
